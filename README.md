@@ -26,3 +26,4 @@ A simple Python Flask example application that's ready to run on Heroku.
 ## Contributors
 
 * [Yefim](https://twitter.com/yefim)
+* [Dd](http://ednalyn.com/)
